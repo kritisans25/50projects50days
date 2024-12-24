@@ -9,7 +9,7 @@ const ctx = canvas.getContext('2d');
 
 let size = 10
 let isPressed = false
-colorEl.value = 'black'
+colorEl.value = 'blue'
 let color = colorEl.value
 let x
 let y
